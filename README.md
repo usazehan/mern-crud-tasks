@@ -1,5 +1,5 @@
 # MERN STACK
-this is a CRUD app example write with React, Node, Expres and Mongodb
+this is a CRUD app that utilizes React, Node, Express and Mongodb.
 
 ## npm install
 
